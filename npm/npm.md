@@ -8,5 +8,5 @@
 - 设置镜像源 `npm config set registry https://registry.npm.taobao.org`。
 - nrm：npm的镜像源管理工具。nrm use taobao。npm config list。
 - yarn：Facebook开发的Javascript包管理工具，比npm更快，更安全。
-- nvm：Node版本管理工具，切换Node.js不同版本。Docker：容器化技术。
+- nvm：Node版本管理工具，切换Node.js不同版本。类似于Docker：容器化技术。
 - npm是Js包管理工具。Ubuntu：apt，CentOS：yum，Mac：Homebrew，Windows：chocolatey。
